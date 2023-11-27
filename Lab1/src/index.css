@@ -1,0 +1,14 @@
+.BitcoinRates {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px; /* Adjust as needed for vertical positioning */
+  
+}
+
+/* Additional styles if needed */
+.BitcoinRates select {
+  margin-top: 20px; /* Add spacing between select and displayed price */
+}
